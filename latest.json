@@ -1,26 +1,26 @@
 {
-  "version": "1.7.2",
-  "file": "PALM-TOURS-Setup-1.7.2.exe",
-  "size": 123117296,
-  "sha256": "ecc3611daa6b37ac3f702773b59de987bd223070d69c07abf9989f2da4466aee",
+  "version": "1.8.0",
+  "file": "PALM-TOURS-Setup-1.8.0.exe",
+  "size": 123176033,
+  "sha256": "813fd1f0e144c6a418c94034e0003099f3fc723d68ce301f45ac7368e43aac1b",
   "parts": [
     {
-      "name": "PALM-TOURS-Setup-1.7.2.exe.part0",
+      "name": "PALM-TOURS-Setup-1.8.0.exe.part0",
       "size": 47185920
     },
     {
-      "name": "PALM-TOURS-Setup-1.7.2.exe.part1",
+      "name": "PALM-TOURS-Setup-1.8.0.exe.part1",
       "size": 47185920
     },
     {
-      "name": "PALM-TOURS-Setup-1.7.2.exe.part2",
-      "size": 28745456
+      "name": "PALM-TOURS-Setup-1.8.0.exe.part2",
+      "size": 28804193
     }
   ],
   "date": "2026-11-16",
   "notes": {
-    "ar": "• التحديثات تصل الآن وحدها من GitHub\n• تحسين التحقق من سلامة الملفات",
-    "fr": "• Mises à jour publiées directement dans le dépôt GitHub public (`raw.githubusercontent.com`), sans « Release » manuelle : `npm run release:manifest` puis `npm run release:publish`.\n• L'installeur est découpé en morceaux de 45 Mo (GitHub refuse les fichiers de plus de 100 Mo). Le logiciel les rassemble, puis vérifie l'empreinte SHA-256 du fichier complet.\n• Le dépôt ne garde que la dernière version : jamais de code source ni de données.",
-    "en": "• Updates now arrive automatically from GitHub"
+    "ar": "الإصدار 1.8: رسوم بيانية ومقارنة بالسنة الماضية، تنبيهات وآجال مع الجرس وإشعارات Windows وTelegram، رحلات الزبون وتفضيلاته، الربح حسب الوجهة، تحويل العرض إلى بيع بنقرة، دمج الزبائن المكررين، بحث شامل Ctrl+K، تهاني وعروض موجهة عبر واتساب، فضاء الزبون برابط سري، نسخة احتياطية مشفرة على GitHub، قفل تلقائي وحماية أقوى.",
+    "fr": "Version 1.8 : graphiques et comparaison N-1, alertes avec cloche, notifications Windows et Telegram, voyages et préférences des clients, bénéfice par destination, devis → vente en un clic, fusion des doublons, recherche Ctrl+K, vœux et offres ciblées WhatsApp, espace client par lien secret, sauvegarde chiffrée sur GitHub, verrouillage automatique et sécurité renforcée.",
+    "en": "Version 1.8: charts and last-year comparison, reminders with bell, Windows and Telegram notifications, customer trips and preferences, profit by destination, quote-to-sale in one click, duplicate customer merge, Ctrl+K global search, WhatsApp greetings and targeted offers, secret-link customer area, encrypted GitHub backup, auto-lock and stronger security."
   }
 }
