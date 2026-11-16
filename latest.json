@@ -1,0 +1,26 @@
+{
+  "version": "1.7.2",
+  "file": "PALM-TOURS-Setup-1.7.2.exe",
+  "size": 123117296,
+  "sha256": "ecc3611daa6b37ac3f702773b59de987bd223070d69c07abf9989f2da4466aee",
+  "parts": [
+    {
+      "name": "PALM-TOURS-Setup-1.7.2.exe.part0",
+      "size": 47185920
+    },
+    {
+      "name": "PALM-TOURS-Setup-1.7.2.exe.part1",
+      "size": 47185920
+    },
+    {
+      "name": "PALM-TOURS-Setup-1.7.2.exe.part2",
+      "size": 28745456
+    }
+  ],
+  "date": "2026-11-16",
+  "notes": {
+    "ar": "• التحديثات تصل الآن وحدها من GitHub\n• تحسين التحقق من سلامة الملفات",
+    "fr": "• Mises à jour publiées directement dans le dépôt GitHub public (`raw.githubusercontent.com`), sans « Release » manuelle : `npm run release:manifest` puis `npm run release:publish`.\n• L'installeur est découpé en morceaux de 45 Mo (GitHub refuse les fichiers de plus de 100 Mo). Le logiciel les rassemble, puis vérifie l'empreinte SHA-256 du fichier complet.\n• Le dépôt ne garde que la dernière version : jamais de code source ni de données.",
+    "en": "• Updates now arrive automatically from GitHub"
+  }
+}
