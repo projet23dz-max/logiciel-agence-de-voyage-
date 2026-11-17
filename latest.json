@@ -1,26 +1,26 @@
 {
-  "version": "1.9.1",
-  "file": "PALM-TOURS-Setup-1.9.1.exe",
-  "size": 123193158,
-  "sha256": "77a544054a0d4543be3642a44b4ad0db57a3af45be3cd6adc1b8f847a143f4e4",
+  "version": "2.0.0",
+  "file": "Wakala-Pro-Setup-2.0.0.exe",
+  "size": 123716846,
+  "sha256": "0fb4b1f0d9fe4725b7e43da93e1ec626aa4b11c79335c3137de0ae5d4662bf65",
   "parts": [
     {
-      "name": "PALM-TOURS-Setup-1.9.1.exe.part0",
+      "name": "Wakala-Pro-Setup-2.0.0.exe.part0",
       "size": 47185920
     },
     {
-      "name": "PALM-TOURS-Setup-1.9.1.exe.part1",
+      "name": "Wakala-Pro-Setup-2.0.0.exe.part1",
       "size": 47185920
     },
     {
-      "name": "PALM-TOURS-Setup-1.9.1.exe.part2",
-      "size": 28821318
+      "name": "Wakala-Pro-Setup-2.0.0.exe.part2",
+      "size": 29345006
     }
   ],
   "date": "2026-11-17",
   "notes": {
-    "ar": "الإصدار 1.9.1: تصحيح تثبيت التحديثات على Windows (تظهر نافذة الإذن: اضغط «نعم»)، مع كل جديد الإصدار 1.9: الواجهة الجديدة بالأيقونات الكبيرة، وشاشة الدخول مع زر 👁.",
-    "fr": "Version 1.9.1 : installation des mises à jour corrigée sous Windows (fenêtre d'autorisation : répondez « Oui »), plus tout le nouveau de la 1.9 : interface à grandes icônes, écran de connexion avec 👁.",
-    "en": "Version 1.9.1: update installation fixed on Windows (permission window: answer Yes), plus everything new in 1.9: big-icon interface, login screen with 👁."
+    "ar": "الاسم الجديد Wakala Pro من الخارج، واسم وشعار وكالتك من الداخل • واجهة جديدة: زجاجي فاخر، Bento، Minimal (الإعدادات ← المظهر) • اسم تحت كل أيقونة على الحاسوب والهاتف • الهاتف: شريط سفلي، تنبيهات من الأسفل بأزرار كبيرة وسحب بالإصبع • «تذكّرني» لم يعد يطلب كلمة السر بعد عدم الاستعمال",
+    "fr": "Nouveau nom Wakala Pro à l'extérieur, nom et logo de votre agence à l'intérieur • Nouvelle interface : Verre premium, Bento, Minimal (Paramètres → Apparence) • Nom sous chaque icône, sur PC et téléphone • Téléphone : barre du bas, alertes depuis le bas avec grands boutons et glissement • « Se souvenir de moi » ne redemande plus le mot de passe après inactivité",
+    "en": "New name Wakala Pro outside, your agency's name and logo inside • New look: Premium glass, Bento, Minimal (Settings → Appearance) • A name under every icon on PC and phone • Phone: bottom bar, alerts from the bottom with big buttons and swipe • “Remember me” no longer asks for the password after inactivity"
   }
 }
