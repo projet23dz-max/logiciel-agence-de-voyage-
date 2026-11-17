@@ -1,26 +1,26 @@
 {
-  "version": "1.8.0",
-  "file": "PALM-TOURS-Setup-1.8.0.exe",
-  "size": 123176033,
-  "sha256": "813fd1f0e144c6a418c94034e0003099f3fc723d68ce301f45ac7368e43aac1b",
+  "version": "1.9.0",
+  "file": "PALM-TOURS-Setup-1.9.0.exe",
+  "size": 123192165,
+  "sha256": "d7473e4979d29eda6cf450905d1ec7420759cc8333e0eef07fbe6d95cd48ab41",
   "parts": [
     {
-      "name": "PALM-TOURS-Setup-1.8.0.exe.part0",
+      "name": "PALM-TOURS-Setup-1.9.0.exe.part0",
       "size": 47185920
     },
     {
-      "name": "PALM-TOURS-Setup-1.8.0.exe.part1",
+      "name": "PALM-TOURS-Setup-1.9.0.exe.part1",
       "size": 47185920
     },
     {
-      "name": "PALM-TOURS-Setup-1.8.0.exe.part2",
-      "size": 28804193
+      "name": "PALM-TOURS-Setup-1.9.0.exe.part2",
+      "size": 28820325
     }
   ],
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "notes": {
-    "ar": "الإصدار 1.8: رسوم بيانية ومقارنة بالسنة الماضية، تنبيهات وآجال مع الجرس وإشعارات Windows وTelegram، رحلات الزبون وتفضيلاته، الربح حسب الوجهة، تحويل العرض إلى بيع بنقرة، دمج الزبائن المكررين، بحث شامل Ctrl+K، تهاني وعروض موجهة عبر واتساب، فضاء الزبون برابط سري، نسخة احتياطية مشفرة على GitHub، قفل تلقائي وحماية أقوى.",
-    "fr": "Version 1.8 : graphiques et comparaison N-1, alertes avec cloche, notifications Windows et Telegram, voyages et préférences des clients, bénéfice par destination, devis → vente en un clic, fusion des doublons, recherche Ctrl+K, vœux et offres ciblées WhatsApp, espace client par lien secret, sauvegarde chiffrée sur GitHub, verrouillage automatique et sécurité renforcée.",
-    "en": "Version 1.8: charts and last-year comparison, reminders with bell, Windows and Telegram notifications, customer trips and preferences, profit by destination, quote-to-sale in one click, duplicate customer merge, Ctrl+K global search, WhatsApp greetings and targeted offers, secret-link customer area, encrypted GitHub backup, auto-lock and stronger security."
+    "ar": "الإصدار 1.9: واجهة جديدة بأيقونات كبيرة لكل قسم، شاشة دخول جديدة مع زر 👁 لإظهار كلمة السر وتنبيه الأحرف الكبيرة، أرقام الشهر للمدير في الصفحة الرئيسية، وتحضير نظام التراخيص (غير مفعّل بعد).",
+    "fr": "Version 1.9 : nouvelle interface à grandes icônes par module, nouvel écran de connexion (bouton 👁, alerte Majuscules), chiffres du mois pour le responsable sur l'accueil, système de licences préparé (pas encore actif).",
+    "en": "Version 1.9: new big-icon interface per module, new login screen (👁 button, Caps Lock warning), monthly figures for the manager on the home screen, license system prepared (not active yet)."
   }
 }
