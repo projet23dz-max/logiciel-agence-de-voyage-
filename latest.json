@@ -1,26 +1,26 @@
 {
-  "version": "1.9.0",
-  "file": "PALM-TOURS-Setup-1.9.0.exe",
-  "size": 123192165,
-  "sha256": "d7473e4979d29eda6cf450905d1ec7420759cc8333e0eef07fbe6d95cd48ab41",
+  "version": "1.9.1",
+  "file": "PALM-TOURS-Setup-1.9.1.exe",
+  "size": 123193158,
+  "sha256": "77a544054a0d4543be3642a44b4ad0db57a3af45be3cd6adc1b8f847a143f4e4",
   "parts": [
     {
-      "name": "PALM-TOURS-Setup-1.9.0.exe.part0",
+      "name": "PALM-TOURS-Setup-1.9.1.exe.part0",
       "size": 47185920
     },
     {
-      "name": "PALM-TOURS-Setup-1.9.0.exe.part1",
+      "name": "PALM-TOURS-Setup-1.9.1.exe.part1",
       "size": 47185920
     },
     {
-      "name": "PALM-TOURS-Setup-1.9.0.exe.part2",
-      "size": 28820325
+      "name": "PALM-TOURS-Setup-1.9.1.exe.part2",
+      "size": 28821318
     }
   ],
   "date": "2026-11-17",
   "notes": {
-    "ar": "الإصدار 1.9: واجهة جديدة بأيقونات كبيرة لكل قسم، شاشة دخول جديدة مع زر 👁 لإظهار كلمة السر وتنبيه الأحرف الكبيرة، أرقام الشهر للمدير في الصفحة الرئيسية، وتحضير نظام التراخيص (غير مفعّل بعد).",
-    "fr": "Version 1.9 : nouvelle interface à grandes icônes par module, nouvel écran de connexion (bouton 👁, alerte Majuscules), chiffres du mois pour le responsable sur l'accueil, système de licences préparé (pas encore actif).",
-    "en": "Version 1.9: new big-icon interface per module, new login screen (👁 button, Caps Lock warning), monthly figures for the manager on the home screen, license system prepared (not active yet)."
+    "ar": "الإصدار 1.9.1: تصحيح تثبيت التحديثات على Windows (تظهر نافذة الإذن: اضغط «نعم»)، مع كل جديد الإصدار 1.9: الواجهة الجديدة بالأيقونات الكبيرة، وشاشة الدخول مع زر 👁.",
+    "fr": "Version 1.9.1 : installation des mises à jour corrigée sous Windows (fenêtre d'autorisation : répondez « Oui »), plus tout le nouveau de la 1.9 : interface à grandes icônes, écran de connexion avec 👁.",
+    "en": "Version 1.9.1: update installation fixed on Windows (permission window: answer Yes), plus everything new in 1.9: big-icon interface, login screen with 👁."
   }
 }
