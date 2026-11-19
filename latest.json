@@ -1,26 +1,26 @@
 {
-  "version": "2.1.0",
-  "file": "Wakala-Pro-Setup-2.1.0.exe",
-  "size": 124115865,
-  "sha256": "ff1f0f680bb03fa4fd1e2dc8dc0b189ee7a3986a72c3de8e1c78a4471d842447",
+  "version": "2.1.1",
+  "file": "Wakala-Pro-Setup-2.1.1.exe",
+  "size": 124131081,
+  "sha256": "fab0e913ed4d1596352a620008f51f121c14bc8fa64ac3424b14daaf28394763",
   "parts": [
     {
-      "name": "Wakala-Pro-Setup-2.1.0.exe.part0",
+      "name": "Wakala-Pro-Setup-2.1.1.exe.part0",
       "size": 47185920
     },
     {
-      "name": "Wakala-Pro-Setup-2.1.0.exe.part1",
+      "name": "Wakala-Pro-Setup-2.1.1.exe.part1",
       "size": 47185920
     },
     {
-      "name": "Wakala-Pro-Setup-2.1.0.exe.part2",
-      "size": 29744025
+      "name": "Wakala-Pro-Setup-2.1.1.exe.part2",
+      "size": 29759241
     }
   ],
   "date": "2026-11-19",
   "notes": {
-    "ar": "لوحة قيادة متحركة جديدة (خريطة أوقات البيع، وفاء الزبائن، أفضل الوجهات، منحنى 12 شهرا) • الفواتير • فواتير الموردين • الرحلات المنظمة والعمرة • البرامج المتوفرة مع تنبيه الانتهاء • قسم التأشيرات (الأنواع، الملفات، الوثائق، المواعيد) • مطبوعات الزبون والمورد ومركز الطباعة مع معاينة • الهاتف: كل صفحات القسم • ترتيب ومجاميع في القوائم • رسوم بنكية • إصلاح «تذكّرني» والأيقونة",
-    "fr": "Tableau de bord animé • Factures • Factures fournisseurs • Voyages organisés et Omra • Programmes avec alerte de fin • Visas (types, dossiers, pièces, rendez-vous) • Imprimés avec aperçu • Téléphone : pages des modules • Tri et totaux • Frais bancaires • Corrigé : « Se souvenir de moi », icône",
-    "en": "Animated dashboard, invoicing, supplier invoices, group trips, programs, visas, prints with preview, phone sub-pages, sorting and totals, bank charges, fixes"
+    "ar": "طباعة من كل صفحة مع معاينة: الديون حسب البحث أو الوسيط مع المجموع، جداول الزبون، عدة زبائن معا، الخزينة (الحركات، اليومية، الإقفالات، كل الحسابات) • إرسال PDF عبر واتساب • تغيير ترتيب الأعمدة بالسحب • أزرار النوافذ ظاهرة على الهاتف • كتابة أوضح في الوضع الداكن • مؤثرات الطائرة: عند التنقل، احتفال عند البيع، ختم «مسدد»، نافذة طائرة في الرئيسية، مؤشر طائرة (قابلة للإيقاف من المظهر)",
+    "fr": "Impression depuis chaque page avec aperçu (dettes filtrées, client, plusieurs clients, trésorerie) • PDF par WhatsApp • Colonnes déplaçables • Fenêtres adaptées au téléphone • Lisibilité en thème sombre • Effets « voyage » réglables",
+    "en": "Page prints with preview, PDF via WhatsApp, movable columns, phone dialogs, dark theme readability, travel effects"
   }
 }
