@@ -1,26 +1,26 @@
 {
-  "version": "2.0.0",
-  "file": "Wakala-Pro-Setup-2.0.0.exe",
-  "size": 123716846,
-  "sha256": "0fb4b1f0d9fe4725b7e43da93e1ec626aa4b11c79335c3137de0ae5d4662bf65",
+  "version": "2.1.0",
+  "file": "Wakala-Pro-Setup-2.1.0.exe",
+  "size": 124115865,
+  "sha256": "ff1f0f680bb03fa4fd1e2dc8dc0b189ee7a3986a72c3de8e1c78a4471d842447",
   "parts": [
     {
-      "name": "Wakala-Pro-Setup-2.0.0.exe.part0",
+      "name": "Wakala-Pro-Setup-2.1.0.exe.part0",
       "size": 47185920
     },
     {
-      "name": "Wakala-Pro-Setup-2.0.0.exe.part1",
+      "name": "Wakala-Pro-Setup-2.1.0.exe.part1",
       "size": 47185920
     },
     {
-      "name": "Wakala-Pro-Setup-2.0.0.exe.part2",
-      "size": 29345006
+      "name": "Wakala-Pro-Setup-2.1.0.exe.part2",
+      "size": 29744025
     }
   ],
-  "date": "2026-11-17",
+  "date": "2026-11-19",
   "notes": {
-    "ar": "الاسم الجديد Wakala Pro من الخارج، واسم وشعار وكالتك من الداخل • واجهة جديدة: زجاجي فاخر، Bento، Minimal (الإعدادات ← المظهر) • اسم تحت كل أيقونة على الحاسوب والهاتف • الهاتف: شريط سفلي، تنبيهات من الأسفل بأزرار كبيرة وسحب بالإصبع • «تذكّرني» لم يعد يطلب كلمة السر بعد عدم الاستعمال",
-    "fr": "Nouveau nom Wakala Pro à l'extérieur, nom et logo de votre agence à l'intérieur • Nouvelle interface : Verre premium, Bento, Minimal (Paramètres → Apparence) • Nom sous chaque icône, sur PC et téléphone • Téléphone : barre du bas, alertes depuis le bas avec grands boutons et glissement • « Se souvenir de moi » ne redemande plus le mot de passe après inactivité",
-    "en": "New name Wakala Pro outside, your agency's name and logo inside • New look: Premium glass, Bento, Minimal (Settings → Appearance) • A name under every icon on PC and phone • Phone: bottom bar, alerts from the bottom with big buttons and swipe • “Remember me” no longer asks for the password after inactivity"
+    "ar": "لوحة قيادة متحركة جديدة (خريطة أوقات البيع، وفاء الزبائن، أفضل الوجهات، منحنى 12 شهرا) • الفواتير • فواتير الموردين • الرحلات المنظمة والعمرة • البرامج المتوفرة مع تنبيه الانتهاء • قسم التأشيرات (الأنواع، الملفات، الوثائق، المواعيد) • مطبوعات الزبون والمورد ومركز الطباعة مع معاينة • الهاتف: كل صفحات القسم • ترتيب ومجاميع في القوائم • رسوم بنكية • إصلاح «تذكّرني» والأيقونة",
+    "fr": "Tableau de bord animé • Factures • Factures fournisseurs • Voyages organisés et Omra • Programmes avec alerte de fin • Visas (types, dossiers, pièces, rendez-vous) • Imprimés avec aperçu • Téléphone : pages des modules • Tri et totaux • Frais bancaires • Corrigé : « Se souvenir de moi », icône",
+    "en": "Animated dashboard, invoicing, supplier invoices, group trips, programs, visas, prints with preview, phone sub-pages, sorting and totals, bank charges, fixes"
   }
 }
